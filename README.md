@@ -8,55 +8,6 @@
     <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
 </p>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Password Manager - README</title>
-<style>
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-    max-width: 820px;
-    margin: 40px auto;
-    padding: 0 20px;
-    line-height: 1.6;
-    color: #24292f;
-  }
-  h1 { border-bottom: 1px solid #d0d7de; padding-bottom: 0.3em; }
-  h2 { border-bottom: 1px solid #d0d7de; padding-bottom: 0.3em; margin-top: 2em; }
-  code {
-    background: #f6f8fa;
-    padding: 0.2em 0.4em;
-    border-radius: 6px;
-    font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
-    font-size: 85%;
-  }
-  pre {
-    background: #f6f8fa;
-    padding: 16px;
-    border-radius: 6px;
-    overflow-x: auto;
-  }
-  pre code { background: none; padding: 0; }
-  blockquote {
-    border-left: 4px solid #d0d7de;
-    margin: 0;
-    padding: 0 1em;
-    color: #57606a;
-  }
-  img { max-width: 100%; border-radius: 6px; }
-  table { border-collapse: collapse; }
-  .warning {
-    background: #fff8c5;
-    border: 1px solid #d4a72c;
-    border-radius: 6px;
-    padding: 12px 16px;
-    margin: 1em 0;
-  }
-</style>
-</head>
-<body>
-
 <h1>🔐 Password Manager</h1>
 
 <p>A simple desktop password manager built with <strong>Python</strong> and <strong>Tkinter</strong>, featuring a random password generator and encrypted storage using the <code>cryptography</code> library's Fernet symmetric encryption.</p>
