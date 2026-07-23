@@ -1,6 +1,4 @@
-<h2 align="center"><u>Password_manager</u></h2>
-
-<h4 align="center"> Generate beautiful Repository Readme </h4>
+<h2 align="center"><u>Password manager</u></h2>
 
 <p align="center">
 <br>
